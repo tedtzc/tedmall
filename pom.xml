@@ -15,6 +15,9 @@
         <module>tedmall-order</module>
         <module>tedmall-product</module>
         <module>tedmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>tedmall-common</module>
     </modules>
 
 
